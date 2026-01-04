@@ -1,8 +1,4 @@
-# AI-Powered Phishing Detection System
-
-A production-ready web application that uses machine learning to detect phishing URLs in real-time. Built with Next.js 14, FastAPI, and scikit-learn.
-
-![Phishing Detection Demo](https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/8b42a260-f23a-49bb-a270-bec3664f0280.png
+# AI/ML-Powered Phishing Detection System
 
 ## 🚀 Features
 
