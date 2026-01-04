@@ -294,6 +294,4 @@ pnpm start
 - [ ] Enterprise dashboard
 - [ ] Webhook notifications
 
----
 
-**Built with ❤️ for cybersecurity and web safety**
