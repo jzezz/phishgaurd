@@ -2,6 +2,15 @@
 
 currently *not deployed*
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home Page](UI/home.png)
+
+### Phishing Detection Result
+![Result](assets/result.png)
+
+
 ## 🚀 Features
 
 - **Real-time URL Analysis**: Instant phishing detection using advanced ML algorithms
