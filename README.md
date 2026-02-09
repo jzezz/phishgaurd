@@ -5,11 +5,16 @@ currently *not deployed*
 ## 📸 Project Screenshots
 
 ### Home Page
-![Home Page](UI/home.png)
+<img width="1864" height="887" alt="home" src="https://github.com/user-attachments/assets/30061677-0ce8-4877-8e1a-5220bb984c88" />
 
-### Phishing Detection Result
-![Result](assets/result.png)
+### Risk Score Result
+<img width="1864" height="887" alt="riskscore" src="https://github.com/user-attachments/assets/681cb098-0eec-4fbe-befb-a7376c4b6edf" />
 
+### Technical Analysis
+<img width="1864" height="887" alt="techanalysis" src="https://github.com/user-attachments/assets/47610774-e175-4160-a10a-2f793f70a1d7" />
+
+### Security features
+<img width="1864" height="887" alt="securityfeatures" src="https://github.com/user-attachments/assets/23b11431-7ced-4a82-a469-8116bbdf1c03" />
 
 ## 🚀 Features
 
