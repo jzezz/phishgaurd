@@ -1,6 +1,6 @@
 # AI/ML-Powered Phishing Detection System
 
-URL:"https://sb-1huwngsw6pcp.vercel.run"
+currently *not deployed*
 
 ## 🚀 Features
 
